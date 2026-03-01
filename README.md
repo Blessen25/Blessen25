@@ -73,12 +73,9 @@
 
 ## ✍️ Dev Wisdom
 
-## ✍️ Dev Wisdom
-
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Blessen25\&icon=2&color=0)](https://visitcount.itsvg.in)
 
